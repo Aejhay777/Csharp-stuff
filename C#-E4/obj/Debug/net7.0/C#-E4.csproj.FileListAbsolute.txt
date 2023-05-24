@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Application\Agents of Value  Eversun Software Philippines Corp\C#-E4\bin\Debug\net7.0\C#-E4.exe
+C:\Users\Admin\Documents\Application\Agents of Value  Eversun Software Philippines Corp\C#-E4\bin\Debug\net7.0\C#-E4.deps.json
+C:\Users\Admin\Documents\Application\Agents of Value  Eversun Software Philippines Corp\C#-E4\bin\Debug\net7.0\C#-E4.runtimeconfig.json
+C:\Users\Admin\Documents\Application\Agents of Value  Eversun Software Philippines Corp\C#-E4\bin\Debug\net7.0\C#-E4.dll
+C:\Users\Admin\Documents\Application\Agents of Value  Eversun Software Philippines Corp\C#-E4\bin\Debug\net7.0\C#-E4.pdb
+C:\Users\Admin\Documents\Application\Agents of Value  Eversun Software Philippines Corp\C#-E4\obj\Debug\net7.0\C#-E4.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Application\Agents of Value  Eversun Software Philippines Corp\C#-E4\obj\Debug\net7.0\C#-E4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Application\Agents of Value  Eversun Software Philippines Corp\C#-E4\obj\Debug\net7.0\C#-E4.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Application\Agents of Value  Eversun Software Philippines Corp\C#-E4\obj\Debug\net7.0\C#-E4.AssemblyInfo.cs
+C:\Users\Admin\Documents\Application\Agents of Value  Eversun Software Philippines Corp\C#-E4\obj\Debug\net7.0\C#-E4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Application\Agents of Value  Eversun Software Philippines Corp\C#-E4\obj\Debug\net7.0\C#-E4.dll
+C:\Users\Admin\Documents\Application\Agents of Value  Eversun Software Philippines Corp\C#-E4\obj\Debug\net7.0\refint\C#-E4.dll
+C:\Users\Admin\Documents\Application\Agents of Value  Eversun Software Philippines Corp\C#-E4\obj\Debug\net7.0\C#-E4.pdb
+C:\Users\Admin\Documents\Application\Agents of Value  Eversun Software Philippines Corp\C#-E4\obj\Debug\net7.0\C#-E4.genruntimeconfig.cache
+C:\Users\Admin\Documents\Application\Agents of Value  Eversun Software Philippines Corp\C#-E4\obj\Debug\net7.0\ref\C#-E4.dll
